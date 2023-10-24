@@ -1,2 +1,2 @@
 # movie-recommending-system
-Trained the dataset by machine learning and then made the website from pycharm.
+Trained the dataset by machine learning and then using streamlit made the website in pycharm.
